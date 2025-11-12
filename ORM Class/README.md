@@ -14,7 +14,7 @@ This streamlines the process of using that library and removes redundant
 code usage from our solution, resulting in better managed code.
 
 This is a simple CRUD wrapper to better streamline the readbean Code.
-Redbean has a lot under hood, check out their website to see else it can do.
+Redbean has a lot under the hood, check out their website to see what else it can do.
 
 ## EXAMPLE
 

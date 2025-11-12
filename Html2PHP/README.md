@@ -12,7 +12,7 @@ Html2PHP is a simple template engine that allows you to separate PHP from HTML.
 This is meant to be a simple, but powerful template parser that gives you enough power to do what you need.
 
 You can parse both static and dynamic content with this library and you also can do some minor MySQL parsing.
-You also got minor decision making ability.
+You also get minor decision making ability.
 
 ## EXAMPLE #1
 
